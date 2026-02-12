@@ -1,3 +1,12 @@
+![Status](https://img.shields.io/badge/status-active%20development-orange)
+
+> ⚠️ **Project Status**
+>
+> Pulseplane is currently under active development and is **not production ready**.
+> APIs, configurations, and architecture may change without notice.
+>
+> Use for experimentation, learning, and contribution purposes only.
+
 # Pulseplane
 
 **Pulseplane** is a production-grade feature flag and runtime configuration control plane,
